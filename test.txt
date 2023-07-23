@@ -1,0 +1,5 @@
+>git add *      //用于更新所有代码
+
+>git commit -m ""             //提交的备注
+
+>git push origin main      //将本地仓库的代码更新到github的仓库
